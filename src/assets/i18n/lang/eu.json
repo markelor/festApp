@@ -1,0 +1,22 @@
+{
+  "languages":
+  {
+    "eu": "Euskara",
+    "es": "Gaztelera",
+    "en": "Ingelesa"
+  },
+  "menu":
+  {
+    "home": "Hasiera",
+    "bars": "Tabernak",
+    "info": "Info",
+    "symbology": "Sinbologia",
+    "create-theme-archeology": "Arkeologia",
+    "create-theme-symbology": "Sinbologia",
+    "create": "Sortu Gaia",
+    "map": "Mapa",
+    "all": "Denak",
+    "administrator": "Administratzailea",
+    "users": "Erabiltzaileak"
+  }
+}

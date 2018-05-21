@@ -1,0 +1,22 @@
+{
+  "languages":
+  {
+    "eu": "Euskara",
+    "es": "Español",
+    "en": "Inglés"
+  },
+  "menu":
+  {
+    "home": "Inicio",
+    "bars": "Bares",
+    "info": "Info",
+    "symbology": "Simbología",
+    "create-theme-archeology": "Arqueología",
+    "create-theme-symbology": "Simbología",
+    "create": "Crear Tema",
+    "map": "Mapa",
+    "all": "Todos",
+    "administrator": "Administrador",
+    "users": "Usuarios"
+  }
+}

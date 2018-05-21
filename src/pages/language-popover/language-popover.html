@@ -1,0 +1,5 @@
+<ion-list>
+  <button ion-item menuClose *ngFor="let item of languages" (click)="choose(item.value)">
+    {{ 'languages.'+item.value | translate }}
+  </button>
+</ion-list>
